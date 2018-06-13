@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{7FD7CDB8-20E4-41B2-9D74-19D9DC798D9B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../NashProj1/NashProj1/parse.cs">
+    <Files>
+      <File FileName="LexicalAnalyzer-ShiftReduceParser/Program.cs" Line="3" Column="16" />
+      <File FileName="LexicalAnalyzer-ShiftReduceParser/lex.cs" Line="3" Column="43" />
+      <File FileName="LexicalAnalyzer-ShiftReduceParser/parse.cs" Line="283" Column="1" />
+      <File FileName="../NashProj1/NashProj1/parse.cs" Line="187" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LexicalAnalyzer-ShiftReduceParser PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

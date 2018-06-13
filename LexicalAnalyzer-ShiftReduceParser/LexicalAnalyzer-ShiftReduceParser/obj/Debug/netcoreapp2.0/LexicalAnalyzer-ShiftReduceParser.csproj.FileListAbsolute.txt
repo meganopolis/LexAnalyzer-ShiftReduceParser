@@ -1,0 +1,11 @@
+/Users/Megan1/Projects/LexicalAnalyzer-ShiftReduceParser/LexicalAnalyzer-ShiftReduceParser/obj/Debug/netcoreapp2.0/LexicalAnalyzer-ShiftReduceParser.csprojResolveAssemblyReference.cache
+/Users/Megan1/Projects/LexicalAnalyzer-ShiftReduceParser/LexicalAnalyzer-ShiftReduceParser/obj/Debug/netcoreapp2.0/LexicalAnalyzer-ShiftReduceParser.csproj.CoreCompileInputs.cache
+/Users/Megan1/Projects/LexicalAnalyzer-ShiftReduceParser/LexicalAnalyzer-ShiftReduceParser/obj/Debug/netcoreapp2.0/LexicalAnalyzer-ShiftReduceParser.AssemblyInfoInputs.cache
+/Users/Megan1/Projects/LexicalAnalyzer-ShiftReduceParser/LexicalAnalyzer-ShiftReduceParser/obj/Debug/netcoreapp2.0/LexicalAnalyzer-ShiftReduceParser.AssemblyInfo.cs
+/Users/Megan1/Projects/LexicalAnalyzer-ShiftReduceParser/LexicalAnalyzer-ShiftReduceParser/bin/Debug/netcoreapp2.0/LexicalAnalyzer-ShiftReduceParser.deps.json
+/Users/Megan1/Projects/LexicalAnalyzer-ShiftReduceParser/LexicalAnalyzer-ShiftReduceParser/bin/Debug/netcoreapp2.0/LexicalAnalyzer-ShiftReduceParser.runtimeconfig.json
+/Users/Megan1/Projects/LexicalAnalyzer-ShiftReduceParser/LexicalAnalyzer-ShiftReduceParser/bin/Debug/netcoreapp2.0/LexicalAnalyzer-ShiftReduceParser.runtimeconfig.dev.json
+/Users/Megan1/Projects/LexicalAnalyzer-ShiftReduceParser/LexicalAnalyzer-ShiftReduceParser/bin/Debug/netcoreapp2.0/LexicalAnalyzer-ShiftReduceParser.dll
+/Users/Megan1/Projects/LexicalAnalyzer-ShiftReduceParser/LexicalAnalyzer-ShiftReduceParser/bin/Debug/netcoreapp2.0/LexicalAnalyzer-ShiftReduceParser.pdb
+/Users/Megan1/Projects/LexicalAnalyzer-ShiftReduceParser/LexicalAnalyzer-ShiftReduceParser/obj/Debug/netcoreapp2.0/LexicalAnalyzer-ShiftReduceParser.dll
+/Users/Megan1/Projects/LexicalAnalyzer-ShiftReduceParser/LexicalAnalyzer-ShiftReduceParser/obj/Debug/netcoreapp2.0/LexicalAnalyzer-ShiftReduceParser.pdb
